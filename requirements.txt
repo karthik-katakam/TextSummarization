@@ -1,0 +1,23 @@
+Transformers  # Huggingface Transformers library
+Datasets  # Huggingface Datasets library
+Transformers[sentencepiece] #
+pandas 
+nltk
+tqdm # for progress bars
+PyYAML # for configuration files
+matplotlib # for plotting graphs
+torch 
+scikit-learn
+seaborn
+rouge-score # for evaluation metrics
+sacrebleu  # for evaluation metrics
+py7zr # for handling 7z compressed files
+notebook # for Jupyter notebooks
+python-box == 6.0.2 
+ensure ==  1.0.2  
+fastapi == 0.78.0
+uvicorn == 0.18.3
+jinja2 == 3.1.2
+
+-e . # to install the all the local packages by running setup.py
+
